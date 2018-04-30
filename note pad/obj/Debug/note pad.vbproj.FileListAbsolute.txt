@@ -1,0 +1,10 @@
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\bin\Debug\note pad.exe.config
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\bin\Debug\note pad.exe
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\bin\Debug\note pad.pdb
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\bin\Debug\note pad.xml
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\obj\Debug\note_pad.Form1.resources
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\obj\Debug\note_pad.Resources.resources
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\obj\Debug\note pad.vbproj.GenerateResource.Cache
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\obj\Debug\note pad.exe
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\obj\Debug\note pad.xml
+c:\users\shank163\documents\visual studio 2012\Projects\note pad\note pad\obj\Debug\note pad.pdb
